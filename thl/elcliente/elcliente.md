@@ -12,11 +12,14 @@ title: El Cliente (THL)
 
 ## 📸 Evidencias del proceso
 
-### Paso 1
+### Reconocimiento y Escaneo Inicial
+ Comenzamos la fase de reconocimiento con un escaneo de red utilizando nmap para identificar 
+hosts activos en el rango 192.168.182.0/24. El resultado mostró la máquina objetivo 
+192.168.182.138 con los siguientes servicios abiertos:
+ • 22/tcp (SSH): OpenSSH 9.6p1 Ubuntu 3ubuntu13.5 
+• 80/tcp (HTTP): Apache 2.4.58 (Ubuntu)
 
 ![1](1.png)
-
-### Paso 2
 
 ![2](2.png)
 
