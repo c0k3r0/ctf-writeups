@@ -15,9 +15,9 @@ title: El Cliente (THL)
 ### Reconocimiento y Escaneo Inicial
  Comenzamos la fase de reconocimiento con un escaneo de red utilizando nmap para identificar 
 hosts activos en el rango 192.168.182.0/24. El resultado mostró la máquina objetivo 
-192.168.182.138 con los siguientes servicios abiertos:  
-• 22/tcp (SSH): OpenSSH 9.6p1 Ubuntu 3ubuntu13.5   
-• 80/tcp (HTTP): Apache 2.4.58 (Ubuntu)  
+192.168.182.138 con los siguientes servicios abiertos:<br>  
+• 22/tcp (SSH): OpenSSH 9.6p1 Ubuntu 3ubuntu13.5<br>   
+• 80/tcp (HTTP): Apache 2.4.58 (Ubuntu)<br>  
 
 ![1](1.png)
 
@@ -119,12 +119,12 @@ obtuvimos el acceso como Root.
 ---
 
 ## 🧾 Conclusión
- Logramos comprometer la máquina objetivo explotando múltiples vulnerabilidades:  
-• XSS → Secuestro de sesión.   
-• Carga de archivos maliciosos → Ejecución remota de código.   
-• Abuso de sudo en tar → Escalada de privilegios a kobe.   
-• Uso de systemctl sin restricciones → Escalada a root.  
+ Logramos comprometer la máquina objetivo explotando múltiples vulnerabilidades:<br>  
+• XSS → Secuestro de sesión.<br>   
+• Carga de archivos maliciosos → Ejecución remota de código.<br>   
+• Abuso de sudo en tar → Escalada de privilegios a kobe.<br>   
+• Uso de systemctl sin restricciones → Escalada a root.<br>  
 
-Write-up realizado por **c0k3r0** — El Sótano 🕶️
+Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 🕶️
 
 
