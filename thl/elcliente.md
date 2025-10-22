@@ -21,7 +21,7 @@ Escaneo de red:
 
 ```bash
 nmap -sS -p- 192.168.182.0/24
-´´´
+````
 
 Resultado:
 Máquina identificada: 192.168.182.138
