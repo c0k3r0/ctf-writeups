@@ -6,7 +6,7 @@ title: El Cliente (THL)
 
 # 🧠 Write-up: El Cliente (THL)
 
-![portada](thl/elcliente/01e20966-33a2-4617-99cb-2ca6fe12332e.jpeg)
+![portada](01e20966-33a2-4617-99cb-2ca6fe12332e.jpeg)
 
 ---
 
