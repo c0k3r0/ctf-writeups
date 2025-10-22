@@ -127,4 +127,7 @@ obtuvimos el acceso como Root.
 
 Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 🕶️
 
+[⬅️ Volver al inicio](https://c0k3r0.github.io/ctf-writeups/)
+
+
 
