@@ -13,5 +13,5 @@ Bienvenido a mi laboratorio. Aquí encontrarás máquinas resueltas, técnicas o
 
 ### TheHackersLabs
 
-- [El Cliente](thl/elcliente/elcliente.md)
+- [El Cliente](thl/elcliente/elcliente)
 
