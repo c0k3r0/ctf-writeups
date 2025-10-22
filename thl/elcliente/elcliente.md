@@ -91,33 +91,39 @@ conectamos mediante SSH.
 
 ![20](20.png)
 
-### Paso 21
-
 ![21](21.png)
-
-### Paso 22
 
 ![22](22.png)
 
-### Paso 22.5
+### Escalada de Privilegios a Usuario kobe mediante tar
+ Ejecutamos sudo -l y encontramos que el usuario scott podía ejecutar tar como kobe sin 
+contraseña. Aprovechamos esto para obtener una shell como kobe:
 
 ![22.5](22.5.png)
 
-### Paso 23
+ y escalamos a usuario Kobe de la siguiente forma:
 
 ![23](23.png)
 
-### Paso 24
+###  Escalada de Priviledios a Root mediante systemctl
+ Ejecutando sudo -l nuevamente, descubrimos que kobe podía ejecutar systemctl sin 
+contraseña.
 
 ![24](24.png)
 
-### Paso 25
+Creamos un servicio malicioso para otorgarnos privilegios de Root y tras ejecutar bash -p, 
+obtuvimos el acceso como Root.
 
 ![25](25.png)
 
 ---
 
 ## 🧾 Conclusión
+ Logramos comprometer la máquina objetivo explotando múltiples vulnerabilidades:
+• XSS → Secuestro de sesión. 
+• Carga de archivos maliciosos → Ejecución remota de código. 
+• Abuso de sudo en tar → Escalada de privilegios a kobe. 
+• Uso de systemctl sin restricciones → Escalada a root.
 
 Write-up realizado por **c0k3r0** — El Sótano 🕶️
 
