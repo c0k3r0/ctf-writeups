@@ -62,39 +62,34 @@ acceso al panel de administración.
 
 ![11](11.png)
 
-### Paso 12
+### Ejecución Remota de Código (RCE) en Carga de Archivos
+ El portal de administración permitía la carga de archivos.
 
 ![12](12.png)
 
-### Paso 13
+ Probamos subiendo un shell.phar con el siguiente contenido:
 
 ![13](13.png)
 
-### Paso 14
-
 ![14](14.png)
 
-### Paso 15
+ Una vez cargado el archivo, pudimos ejecutar comandos en la máquina víctima accediendo a:
+http://admin.arka.thl/uploads/shell.phar?cmd=
 
 ![15](15.png)
 
-### Paso 16
-
 ![16](16.png)
 
-### Paso 17
+ Esto nos dio ejecución remota mediante una reverse shell.
 
 ![17](17.png)
 
-### Paso 18
-
 ![18](18.png)
 
-### Paso 19
+Investigando encontramos una base de datos con las credenciales del usuario Scott y nos 
+conectamos mediante SSH.
 
 ![19](19.png)
-
-### Paso 20
 
 ![20](20.png)
 
