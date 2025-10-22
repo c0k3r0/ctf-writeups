@@ -14,107 +14,107 @@ title: El Cliente (THL)
 
 ### Paso 1
 
-![1](thl/elcliente/1.png)
+![1](1.png)
 
 ### Paso 2
 
-![2](thl/elcliente/2.png)
+![2](2.png)
 
 ### Paso 3
 
-![3](thl/elcliente/3.png)
+![3](3.png)
 
 ### Paso 4
 
-![4](thl/elcliente/4.png)
+![4](4.png)
 
 ### Paso 5
 
-![5](thl/elcliente/5.png)
+![5](5.png)
 
 ### Paso 6
 
-![6](thl/elcliente/6.png)
+![6](6.png)
 
 ### Paso 7
 
-![7](thl/elcliente/7.png)
+![7](7.png)
 
 ### Paso 8
 
-![8](thl/elcliente/8.png)
+![8](8.png)
 
 ### Paso 9
 
-![9](thl/elcliente/9.png)
+![9](9.png)
 
 ### Paso 10
 
-![10](thl/elcliente/10.png)
+![10](10.png)
 
 ### Paso 11
 
-![11](thl/elcliente/11.png)
+![11](11.png)
 
 ### Paso 12
 
-![12](thl/elcliente/12.png)
+![12](12.png)
 
 ### Paso 13
 
-![13](thl/elcliente/13.png)
+![13](13.png)
 
 ### Paso 14
 
-![14](thl/elcliente/14.png)
+![14](14.png)
 
 ### Paso 15
 
-![15](thl/elcliente/15.png)
+![15](15.png)
 
 ### Paso 16
 
-![16](thl/elcliente/16.png)
+![16](16.png)
 
 ### Paso 17
 
-![17](thl/elcliente/17.png)
+![17](17.png)
 
 ### Paso 18
 
-![18](thl/elcliente/18.png)
+![18](18.png)
 
 ### Paso 19
 
-![19](thl/elcliente/19.png)
+![19](19.png)
 
 ### Paso 20
 
-![20](thl/elcliente/20.png)
+![20](20.png)
 
 ### Paso 21
 
-![21](thl/elcliente/21.png)
+![21](21.png)
 
 ### Paso 22
 
-![22](thl/elcliente/22.png)
+![22](22.png)
 
 ### Paso 22.5
 
-![22.5](thl/elcliente/22.5.png)
+![22.5](22.5.png)
 
 ### Paso 23
 
-![23](thl/elcliente/23.png)
+![23](23.png)
 
 ### Paso 24
 
-![24](thl/elcliente/24.png)
+![24](24.png)
 
 ### Paso 25
 
-![25](thl/elcliente/25.png)
+![25](25.png)
 
 ---
 
