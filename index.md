@@ -13,5 +13,5 @@ Bienvenido a mi laboratorio. Aquí encontrarás máquinas resueltas, técnicas o
 
 ### TheHackersLabs
 
-- [Legacy](htb/legacy.md)
+- [El Cliente]
 
