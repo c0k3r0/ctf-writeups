@@ -125,7 +125,7 @@ obtuvimos el acceso como Root.
 • Abuso de sudo en tar → Escalada de privilegios a kobe.<br>   
 • Uso de systemctl sin restricciones → Escalada a root.<br>  
 
-###Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 🕶️
+### Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 🕶️
 
 [⬅️ Volver al inicio](https://c0k3r0.github.io/ctf-writeups/)
 
