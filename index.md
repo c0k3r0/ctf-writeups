@@ -3,6 +3,10 @@ layout: default
 title: El sótano de c0k3r0
 ---
 
+<p align="center">
+  <img src="/ctf-writeups/ESDC.png" alt="Banner del portfolio" width="800">
+</p>
+
 # 🧠 Write-Ups de CTF por c0k3r0
 
 Bienvenido a mi sotano. Aquí encontrarás máquinas resueltas, técnicas ofensivas y notas.
