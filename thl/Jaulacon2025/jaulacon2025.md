@@ -133,7 +133,8 @@ Este CTF demostro multiples vectores de ataque:
 - Enumeracion web
 - Explotacion de CVE en CMS
 - Post-explotacion con lectura de archivos sensibles
-- Cracking de hashes- Escalada de privilegios con binario permitido por sudo
+- Cracking de hashes
+- Escalada de privilegios con binario permitido por sudo
 
 Una cadena excelente de explotacion realista y formativa
 
