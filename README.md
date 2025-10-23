@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 <h1 align="center">🕳️ El sótano de c0k3r0 🕳️</h1>
 <p align="center"><code>root@c0k3r0:~# ./welcome.sh</code></p>
 
