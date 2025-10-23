@@ -68,15 +68,6 @@ Este repositorio recopila análisis técnicos y evidencia paso a paso de máquin
 ![Bash](https://img.shields.io/badge/-Bash-darkgreen)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=linux)
 
-
----
-
-## 📊 Actividad en GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=c0k3r0&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📫 Contacto
