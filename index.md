@@ -14,4 +14,4 @@ Bienvenido a mi laboratorio. Aquí encontrarás máquinas resueltas, técnicas o
 ### TheHackersLabs
 
 - [El Cliente](thl/elcliente/elcliente)
-
+- [Jaulacon 2025](thl/Jaulacon2025/jaulacon2025)
