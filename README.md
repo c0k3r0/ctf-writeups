@@ -1,2 +1,2 @@
 # ctf-writeups
-Portfolio de write-ups de Jorge Ruiz Ojosnegros, Aka c0k3r0
+Portfolio de write-ups de Jorge Ruiz Ojosnegros, aka c0k3r0
