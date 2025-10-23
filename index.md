@@ -24,4 +24,4 @@ Bienvenido a mi sotano. Aquí encontrarás máquinas resueltas, técnicas ofensi
 
 ---
 
-📄 [Acerca de mí](acercademi.md)
+📄 [Acerca de mí](acercademi)
