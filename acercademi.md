@@ -14,7 +14,7 @@ title: README
 ---
 Portfolio de write-ups de **Jorge Ruiz Ojosnegros**, aka **c0k3r0**, como parte de mi desarrollo profesional en el ámbito de la ciberseguridad ofensiva y resolución de máquinas CTF.
 
-Este repositorio recopila análisis técnicos y evidencia paso a paso de máquinas comprometidas en plataformas como **TheHackersLab**, **TryHackMe**, **Hack The Box**, entre otras.
+Este repositorio recopila análisis técnicos y evidencia paso a paso de máquinas comprometidas en plataformas como **TheHackersLabs**, **TryHackMe**, **Hack The Box**, entre otras.
 
 📌 _Todos los write-ups están realizados en entornos de laboratorio controlados sobre sistemas que tengo autorización para auditar._
 
