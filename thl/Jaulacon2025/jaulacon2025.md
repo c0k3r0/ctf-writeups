@@ -61,5 +61,7 @@ title: Jaulacon 2025 (THL)
 
 ---
 
+### Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 �
+
 🔙 [Volver al índice](../../index.md)
 
