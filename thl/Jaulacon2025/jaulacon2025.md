@@ -7,6 +7,8 @@ title: Jaulacon 2025 (THL)
 
 ![portada](IMG_5944-1.jpeg)
 
+---
+
 ## 📸 Evidencias del proceso
 
 **Paso 1**  
