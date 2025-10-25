@@ -71,6 +71,8 @@ Comprobamos los permisos de sudo y descubrimos que el usuario puede ejecutar `pu
 
 ![Sudo sin contraseña](6.png)
 
+Puttygen es una herramienta de generación de claves SSH que se utiliza para generar pares de clave pública/privada.
+
 ---
 
 ## 🔑 Generación de Clave Privada
@@ -99,7 +101,7 @@ Ejecutamos `puttygen` como root para convertir nuestra clave en una pública vá
 
 ## 🧙‍♂️ Acceso como root
 
-Finalmente, utilizamos la clave privada para conectarnos al sistema como **root**.
+Finalmente, utilizamos la clave privada para conectarnos via SSH al sistema como **root**.
 
 ![Acceso root](10.png)
 
