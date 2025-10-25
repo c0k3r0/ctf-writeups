@@ -54,7 +54,7 @@ El resultado descifrado es:
 
 ---
 
-## 📝Enumeración Samba
+## 📝Enumeración de usuarios
 
 Usamos enum4linux para obtener más información:
 
