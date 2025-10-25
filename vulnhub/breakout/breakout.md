@@ -5,6 +5,10 @@ title: Breakout (Vulnhub)
 
 # 🧠 Write-up: Breakout (Vulnhub)
 
+[Descargar máquina](https://www.vulnhub.com/entry/empire-breakout,751/)
+
+---
+
 ## 🔎 Escaneo de Puertos
 
 Comenzamos con un escaneo de puertos utilizando `nmap`:
