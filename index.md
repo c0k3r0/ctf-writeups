@@ -19,7 +19,7 @@ Bienvenido a mi sotano. Aquí encontrarás máquinas resueltas, técnicas ofensi
 
 - [El Cliente](thl/elcliente/elcliente)
 - [Jaulacon 2025](thl/Jaulacon2025/jaulacon2025)
-- [Grillo](thl/El-grillo/grillo)
+- [Grillo](thl/El%20grillo/grillo)
 
 ### TryHackMe
 -
