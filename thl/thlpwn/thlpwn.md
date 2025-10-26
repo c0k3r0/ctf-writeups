@@ -35,7 +35,7 @@ Al intentar acceder al sitio web desde el navegador mediante la IP, recibimos un
 
 ![3](3.png)
 
-Utilizamos curl para inspeccionar el contenido HTML directamente. Encontramos un comentario oculto en el código fuente: <!--thlpwn.thl-->, lo que sugiere el nombre del host.
+Utilizamos curl para inspeccionar el contenido HTML directamente. Encontramos un comentario oculto en el código fuente: `thlpwn.thl`, lo que sugiere el nombre del host.
 
 ---
 
