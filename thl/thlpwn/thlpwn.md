@@ -18,6 +18,7 @@ Realizamos un escaneo con Nmap para identificar puertos abiertos y servicios act
 ![1](1.png)
 
 El escaneo revela que los puertos `22 (SSH)` y `80 (HTTP)` están abiertos.
+
 ---
 ### Acceso denegado vía HTTP
 
