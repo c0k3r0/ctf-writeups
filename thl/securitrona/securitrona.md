@@ -9,10 +9,10 @@ title: THLPWN (THL)
 
 ---  
 
-**Dificultad estimada:** Media/Alta  
-**Plataforma:** Máquina Linux  
-**Entorno:** Kali Purple 
-**Objetivo:** Obtener acceso root y leer la flag final a través del abuso de un chatbot y un binario con SUID.
+**-Dificultad estimada:** Media/Alta  
+**-Plataforma:** Máquina Linux  
+**-Entorno:** Kali Purple 
+**-Objetivo:** Obtener acceso root y leer la flag final a través del abuso de un chatbot y un binario con SUID.
 
 ---
 
