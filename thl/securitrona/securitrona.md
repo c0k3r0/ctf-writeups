@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THLPWN (THL)
+title: Securitrona (THL)
 ---
 
 # 🧠 Write-up: CTF – Securitrona
