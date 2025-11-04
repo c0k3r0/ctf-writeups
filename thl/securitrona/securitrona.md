@@ -3,7 +3,7 @@ layout: default
 title: THLPWN (THL)
 ---
 
-# 🧠 Write-up: CTF – Securitrona AI Chatbot Exploitation
+# 🧠 Write-up: CTF – Securitrona
 
 ![portada](portada.png)
 
