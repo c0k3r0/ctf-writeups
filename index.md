@@ -21,7 +21,8 @@ Bienvenido a mi sotano. Aquí encontrarás máquinas resueltas, técnicas ofensi
 - [Jaulacon 2025](thl/Jaulacon2025/jaulacon2025)
 - [Grillo](thl/El%20grillo/elgrillo)
 - [THLPWN](thl/thlpwn/thlpwn)
-- [Securitrona](thl/securitrona/securitrona)
+- [Securitrona](thl/securitrona/securitrona) ![AI](https://img.shields.io/badge/-AI-red)
+
 ### TryHackMe
 -
 
