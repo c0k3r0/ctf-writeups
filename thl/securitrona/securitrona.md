@@ -112,10 +112,11 @@ Y finalmente, recibimos la flag vía netcat:
 
 ## 🧩 Conclusiones
 
-- Los chatbots con funciones internas pueden ser manipulables con prompt injection
-- Los binarios con SUID deben estar extremadamente restringidos
-- John + ssh2john siguen siendo armas poderosas en CTFs
-- La lógica de sandbox puede ser abusada con buenas preguntas
+- Los chatbots con funciones internas pueden ser manipulables con prompt injection.
+- Los binarios con SUID deben estar extremadamente restringidos.
+- John + ssh2john siguen siendo armas poderosas en CTFs.
+- La lógica de sandbox puede ser abusada con buenas preguntas.
+
 Usamos todo lo aprendido para llegar a la flag final, aplicando ingeniería inversa en prompts para IA, explotación LLM mediante funciones internas, acceso con clave privada SSH, brute force con John the Ripper y abuso del binario ab
 
 ### Write-up realizado por **c0k3r0** — El Sótano de c0k3r0 �
