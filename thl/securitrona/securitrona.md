@@ -84,7 +84,7 @@ Leemos el primer flag de usuario:
 
 ## 🚀 Escalada de privilegios (SUID: ab)
 
-Buscamos binarios con bit SUID:
+Buscamos binarios con permisos SUID:
 
 ![15](15.png)
 
