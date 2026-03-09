@@ -3,77 +3,123 @@ layout: default
 title: README
 ---
 
-<h1 align="center">🕳️ El sótano de c0k3r0 🕳️</h1>
-<p align="center"><code>root@c0k3r0:~# ./welcome.sh</code></p>
-
-
+![Banner](banner.png)
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lxNGF2ZDUxNmptdjQxZHh0eWowYzNubWxma3ptZDdhZWg5YjM4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="300">
+<code>root@c0k3r0:~# ./welcome.sh</code>
 </p>
 
 ---
-Portfolio de write-ups de **Jorge Ruiz Ojosnegros**, aka **c0k3r0**, como parte de mi desarrollo profesional en el ámbito de la ciberseguridad ofensiva y resolución de máquinas CTF.
 
-Este repositorio recopila análisis técnicos y evidencia paso a paso de máquinas comprometidas en plataformas como **TheHackersLabs**, **TryHackMe**, **Hack The Box**, entre otras.
+## 🧠 About Me
 
-📌 _Todos los write-ups están realizados en entornos de laboratorio controlados sobre sistemas que tengo autorización para auditar._
+```bash
+root@c0k3r0:~# whoami
+```
+
+- 🛡️ Cybersecurity Enthusiast  
+- 🎯 Aspiring Pentester / Blue Team  
+- 🧪 CTF Player  
+- 🔎 Security Research  
+
+Currently documenting my journey while transitioning into cybersecurity.
+
+Focused on:
+
+- Offensive Security  
+- Web Application Testing  
+- Capture The Flag Challenges  
+- Security Tool Development  
 
 ---
 
-## 🧠 Sobre mí
+## 📜 Certifications
 
-🎩 Entusiasta del hacking ético | 🧠 eJPTv2 & Google Cibersecurity Certified | 🔐 Jugador de CTFs  
-🖥️ Documentando mi aprendizaje mientras avanzo hacia una carrera en ciberseguridad.
-
----
-
-## 🧪 Proyectos actuales
-
-- 🔍 **CTF-Writeups** → Portafolio de write-ups de máquinas CTF  
-- ⚙️ **OSINT Tools** → Scripts y técnicas para recolección de inteligencia  
-- 📁 **Payloads & Cheatsheets** → Repositorio personal de recursos para pentesting
+- 🥇 **eJPT v2 – Junior Penetration Tester (INE)**
+- 🛡️ **Google Cybersecurity Professional Certificate**
 
 ---
 
-## 💻 Herramientas favoritas
+## 🚀 Projects
 
-### 🛰️ Reconocimiento y Enumeración
+### 🔍 CTF Writeups
+Portfolio of solved CTF machines and challenges with detailed methodology.
+
+### ⚙️ Security Tools
+Development of scripts and tools for automation and security testing.
+
+### 📁 Payloads & Cheatsheets
+Personal repository with useful pentesting resources.
+
+---
+
+## 💻 Favorite Tools
+
+### 🛰️ Reconnaissance & Enumeration
 ![Nmap](https://img.shields.io/badge/-Nmap-grey)
 ![Gobuster](https://img.shields.io/badge/-Gobuster-yellow)
 ![theHarvester](https://img.shields.io/badge/-theHarvester-lightgrey)
 ![Amass](https://img.shields.io/badge/-Amass-darkgreen)
 
-### 🔓 Fuerza Bruta / Credenciales
+### 🔓 Credentials / Brute Force
 ![Hydra](https://img.shields.io/badge/-Hydra-black)
 ![CrackMapExec](https://img.shields.io/badge/-CME-darkred)
 
-### 🕷️ Pentesting Web / Análisis de Aplicaciones
+### 🕷️ Web Application Security
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange)
-
-### 💥 Explotación
-![Metasploit](https://img.shields.io/badge/-Metasploit-red)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-yellow)
 
-### 🩺 Post-Explotación / Privesc
+### 💥 Exploitation
+![Metasploit](https://img.shields.io/badge/-Metasploit-red)
+
+### 🩺 Privilege Escalation
 ![LinPEAS](https://img.shields.io/badge/-LinPEAS-green)
 ![WinPEAS](https://img.shields.io/badge/-WinPEAS-blue)
 ![BloodHound](https://img.shields.io/badge/-BloodHound-darkblue)
 
-### 📡 Análisis de Red y Forense
+### 📡 Network Analysis
 ![Wireshark](https://img.shields.io/badge/-Wireshark-blue)
 ![Splunk](https://img.shields.io/badge/-Splunk-black)
 
-### 🐍 Lenguajes y Plataformas
+### 🐍 Languages & Platforms
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-darkgreen)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=linux)
 
 ---
 
-## 📫 Contacto
+## 📊 GitHub Activity
 
-- 🔗 [LinkedIn](https://linkedin.com/in/jorge-ruiz-ojosnegros-b5b2922b7)  
-- 🌐 Blog: *próximamente...*
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=c0k3r0&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=c0k3r0&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0k3r0&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://stats.vercel.app/api/top-langs/?username=c0k3r0&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 🔗 LinkedIn → https://linkedin.com/in/jorgeruizojosnegros  
+- 🌐 CTF Writeups → https://c0k3r0.github.io/ctf-writeups/
+
+---
+
+<p align="center">
+⚡ Always learning | Always hacking ⚡
+</p>
+
 
 ---
 
