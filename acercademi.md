@@ -3,7 +3,7 @@ layout: default
 title: README
 ---
 
-![Banner](https://github.com/c0k3r0/c0k3r0/blob/main/banner.png)
+![Banner](banner.png)
 <p align="center">
 <code>root@c0k3r0:~# ./welcome.sh</code>
 </p>
